@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Veterinario
+comment1.params=animal
+comment1.target=void\ vacunar(Animal)
+numComments=2

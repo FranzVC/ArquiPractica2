@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=
+comment1.target=java.lang.String\ mostrarEstado()
+comment2.params=estado
+comment2.target=void\ setEstado(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ comer()
+numComments=4

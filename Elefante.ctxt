@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Elefante
+comment1.params=
+comment1.target=Elefante()
+comment2.params=
+comment2.target=java.lang.String\ mostrarEstado()
+comment3.params=estado
+comment3.target=void\ setEstado(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ comer()
+numComments=5
